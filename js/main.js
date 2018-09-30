@@ -1,3 +1,3 @@
-function buttonClick() {
-    alert("Button clicked.");
+function buttonIsClicked() {
+    alert("poopStain.");
 }
